@@ -81,34 +81,3 @@ Create a report for fraudulent transactions of some top customers of the firm. T
 
   * Do you notice any anomalies? Describe your observations and conclusions.
 
-## Challenge
-
-Another approach to identify fraudulent transactions is to look for outliers in the data. Standard deviation or quartiles are often used to detect outliers.
-
-Read the following articles on outliers detection, and then code a function using Python to identify anomalies for any cardholder.
-
-* [How to Calculate Outliers](https://www.wikihow.com/Calculate-Outliers)
-
-* [Removing Outliers Using Standard Deviation in Python](https://www.kdnuggets.com/2017/02/removing-outliers-standard-deviation-python.html)
-
-* [How to Use Statistics to Identify Outliers in Data](https://machinelearningmastery.com/how-to-use-statistics-to-identify-outliers-in-data/)
-
-### Submission
-
-* Create an image file of your ERD.
-
-* Create a `.sql` file of your table schemata.
-
-* Create a `.sql` file of your queries.
-
-* Create a Jupyter Notebook for the visual data analysis and the challenge.
-
-* Create and upload a repository with the above files to GitHub and post a link in BootCamp Spot.
-
-## Hint
-
-For comparing time and dates, take a look at the [date/time functions and operators](https://www.postgresql.org/docs/8.0/functions-datetime.html) in the PostgreSQL documentation.
-
----
-
-© 2020 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
